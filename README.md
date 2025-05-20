@@ -13,7 +13,9 @@ it runs on a RaspberryPI , uses physicalbuttons and LCD screen , and plays MP3 f
  -**play/stop**
 -display track info on 16x2 I2c LCD 
 -Retro feel and design 
+
 ----
+
 ##Hardware equipments
 
 -Raspberry pi 3a+
@@ -23,6 +25,7 @@ it runs on a RaspberryPI , uses physicalbuttons and LCD screen , and plays MP3 f
 -power source (e.g. power bank )
 
 -----
+
 ## Instalation
 this project runs on **volumio** , a lightweight music player operating system for RaspberryPI
 
