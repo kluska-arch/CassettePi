@@ -16,7 +16,7 @@ it runs on a RaspberryPI , uses physicalbuttons and LCD screen , and plays MP3 f
 
 ----
 
-##Hardware equipments
+## Hardware equipments
 
 -Raspberry pi 3a+
 -16x2 I2c LCD display
