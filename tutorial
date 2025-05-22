@@ -1,0 +1,9 @@
+tutorial how to build CassettePI
+1 . Flash Volumio to SD Card
+  - download and install RaspberryPi imager
+  - launch the imager and 
+    ~chose os > use custom > select the volumio .img file
+    ~chose your sd card
+    ~click Write
+2 insert the card into your RaspberryPi and power it on
+3 Connect to the wi-fi network and open http://volumio.local or http://your.ip to finish setup
